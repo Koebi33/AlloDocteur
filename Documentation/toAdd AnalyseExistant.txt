@@ -1,0 +1,50 @@
+- MonDocteur
+
+Semble voué à devenir le leader du marché. Coûte 100€ par mois aux médecins, commence à être connu. Doctissimo a investi dans le capital à hauteur de 2.7 millions d'euros : gain financier et médiatique pour le site.
+Il faudra surveiller l'évolution du site en terme de médecins inscrits sur Paris, car il s'agit probablement du concurrent numéro 1.
+Ne fait pas que les généralistes.
+Un an d'existance et une belle progression.
+
+Qualités :
+- Interface très simple : quand, où => GO
+- Site très beau
+- Plus de médecins que les autres, lisibilité des prises de rendez vous
+- Investissement de Doctissimo : gros coup financier et médiatique
+- Beaucoup de comm faite aux médecins
+- Prix des consultations
+- Profil des médecins
+- Recherche par nom possible
+
+Défauts :
+- Prix : 100€ / mois pour les médecins
+- Mauvaise image pour les médecins avec Doctissimo
+- Calendrier Web
+- Pas de paiement en ligne
+- Recherche par nom pas dès la page d'accueil
+
+Conclusion : ce site a de fortes chances d'exploser, on va suivre son évolution de très près. Il va falloir le contrer auprès des médecins car il est pensé pour les utilisateurs : on ne pourra convaincre les utilisateurs qu'à partir du moment où il y a beaucoup plus de choix de médecins. d'un point de vue utilisateurs, MonDocteur a l'avantage de ne pas avoir de pub : il faudra donc que la pub reste discrète pendant un moment le temps de fidéliser les utilisateurs.
+
+
+- KelDoc
+
+Un an et demi d'existence, plus basé sur les dentistes, mais concurrent numéro 1 de MonDocteur aujourd'hui. Plus cher : 200€/mois pour les médecins. Gros investissements dans le capital également.
+A surveiller de très près également. Beaucoup moins de succès chez les généralistes que MonDocteur pour le moment : semble avoir une longueur de retard.
+
+Qualités :
+- Interface également très simple.
+- Investissements dans le capital
+- Beaucoup de comm
+- Profil des médecins
+- Recherche par nom pareille que dans MonDocteur
+- Image sérieuse
+
+Défauts :
+- Prix : 200€ / mois : très cher
+- Site un peu moins beau
+- Peu de médecins : 3 sur Paris !
+- Pas le prix des consultations affiché noir sur blanc
+- Calendrier Web
+- Pas de paiement en ligne
+- Recherche par nom pas dès la page d'accueil
+
+Conclusion : ce site part avec une vraie longueur de retard sur MonDocteur, mais on le suivra de près car il fait plus sérieux auprès des médecins que MonDocteur.
