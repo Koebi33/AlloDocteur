@@ -14,6 +14,7 @@ Qualités :
 - Prix des consultations
 - Profil des médecins
 - Recherche par nom possible
+- Calendrier intégré
 
 Défauts :
 - Prix : 100€ / mois pour les médecins
@@ -37,6 +38,8 @@ Qualités :
 - Profil des médecins
 - Recherche par nom pareille que dans MonDocteur
 - Image sérieuse
+- Protection des données personnelles
+- Application mobile
 
 Défauts :
 - Prix : 200€ / mois : très cher
@@ -46,5 +49,6 @@ Défauts :
 - Calendrier Web
 - Pas de paiement en ligne
 - Recherche par nom pas dès la page d'accueil
+- Durée d'engagement
 
 Conclusion : ce site part avec une vraie longueur de retard sur MonDocteur, mais on le suivra de près car il fait plus sérieux auprès des médecins que MonDocteur.
