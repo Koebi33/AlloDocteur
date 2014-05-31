@@ -1,0 +1,5 @@
+Notes en vrac :
+
+- nécessaire d'avoir un ACK de la prise de RDV (mail) et de l'annulation
+- laisser le choix au médecin de valider ou non une demande (comme pour blablacar)
+- Historique de consultations, notes personnelles ?
